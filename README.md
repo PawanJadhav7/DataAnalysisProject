@@ -1,3 +1,3 @@
 # DataAnalysisProject
 This is the DataAnalysis Project
-<br> Author - PawanJ
+<br> Author - Pawan Jadhav
